@@ -1,7 +1,7 @@
-#Gowit Coding Challenge Assignment
-##About
+# Gowit Coding Challenge Assignment
+## About
 It's a simple key-value store application end point. It's provide a Rest API in order to set, get, check and delete a key-value pair.
-##How it works
+## How it works
 Accepts HTTP GET, HEAD, PUT or DELETE
 * get a value (GET /keys/{id})
 * get all values (GET /keys)
