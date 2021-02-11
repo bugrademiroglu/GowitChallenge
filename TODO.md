@@ -1,0 +1,13 @@
+- [x] Create flask server and import required libraries
+- [x] Establish a connection with Redis Cloud
+- [x] Set a key-value pairs with Redis us hmset
+- [x] Create and implement getValue route (GET-GEAD)
+- [x] Create and implement getAllValue route (GET)
+- [x] Create and implement putValue route (PUT)
+- [x] Create and implement deleteValue route (DELETE)
+- [x] Create and implement deleteAllValue route (DELETE)
+- [x] Create methods in order to handle with hash sets process
+- [x] Create test file and import required libraries
+- [x] Implement test methods for every route and for connection testing
+- [x] Create a docker file for docker image
+- [x] Create a docker compose
