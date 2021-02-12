@@ -29,17 +29,17 @@ carInfo = {'Brand':'BMW','Model':'320','HP':'300','Color':'Black','Price':'10000
 * http://localhost:5000/keys/Price
 6. To deleting all the values you can make a DELETE request
 * http://localhost:5000/keys/Price
-#Requirements
+# Requirements
 * At least Python version of 3.2
 * redis~=3.5.3
 * Flask~=1.1.2
 * Docker
-##Technologies
+## Technologies
 In this project, Python was used as a backend language and Flask framework was used a web service and Redis.
 
 The reason why I chose Flask framework is it's easy to setting up and running. You can use the facilities and libraries provided by the Python language.
 
-##Installation and Run
+## Installation and Run
 To run the code:
 
 ###### On terminal:
@@ -53,11 +53,11 @@ python main.py
 ```bash
 docker-compose up
 ```
-######View
+###### View
 ```bash
 http://localhost:5000
 ```
-######Stop
+###### Stop
 ```bash
 docker-compose stop
 ```
